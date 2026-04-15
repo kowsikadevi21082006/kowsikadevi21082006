@@ -62,7 +62,7 @@
 - 🌱 I’m currently learning **Flutter, DataStructure in Depth, and Next.js**
 - 💬 Ask me about anything related to the **MERN stack**
 - ⚡ Fun Fact: I love solving real-world problems with code
-- 📄 [My Resume](https://docs.google.com/document/d/1AvTOGUnJIFoTs01Ptmofh5P5ImZxO5Qo/edit?usp=sharing&ouid=101192440987165265825&rtpof=true&sd=true)
+- 📄 [My Resume](https://docs.google.com/document/d/1sg6LgoJh2TsX6a4HtGMXBrH7xDK47aq-/edit?usp=sharing&ouid=101192440987165265825&rtpof=true&sd=true)
 
 ---
 
